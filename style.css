@@ -1,4 +1,33 @@
-h1 {
-    color: brown;
-    border:color(srgb rgb(238, 52, 52) rgb(230, 81, 101) rgb(255, 0, 13))
+h1{
+    color: green;
+    background-color: antiquewhite;
+    font-size: 1rem;
+}
+h2{
+    color: rgb(166, 206, 21);
+}
+body{
+    background-color: aquamarine;
+}
+img {
+    border-radius: 50%;
+}
+ul{
+    color: blue;
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+
+}
+p{
+    color: rgb(32, 146, 32);
+    background-color: rgb(101, 38, 143);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+tr{
+    color: rgb(20, 179, 73);
+}
+.dim{
+    color: rgb(209, 121, 13);
 }
